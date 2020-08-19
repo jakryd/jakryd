@@ -1,5 +1,4 @@
-### Hi there 👋
-
+PhD is physics / Developing enhanced sampling methods
 <!--
 **jakryd/jakryd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
