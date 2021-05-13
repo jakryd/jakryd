@@ -1,4 +1,4 @@
-PhD is physics / Developing enhanced sampling methods.
+PhD in physics / Developing enhanced sampling methods.
 
 #### Recent publications
   - J. Rydzewski, and O. Valsson, *Multiscale reweighted stochastic embedding (MRSE): Deep learning of collective variables for enhanced sampling*, [arXiv:2007.06377](https://arxiv.org/abs/2007.06377);
