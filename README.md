@@ -1,9 +1,6 @@
 PhD in physics / Developing enhanced sampling methods.
 
-#### Recent publications
-  - J. Rydzewski, and O. Valsson, *Multiscale reweighted stochastic embedding (MRSE): Deep learning of collective variables for enhanced sampling*, [arXiv:2007.06377](https://arxiv.org/abs/2007.06377);
-  - See also [this](https://jakryd.github.io/publications).
-
+[Publications](https://jakryd.github.io/publications/) / [Codes](https://jakryd.github.io/software/)
 
 #### Contributor
 
